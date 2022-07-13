@@ -1,0 +1,10 @@
+Detailed description of how to install the Bot
+
+1/ Download DCautofarmbot
+2/ Next unpack  
+3/ Move everything to a place convenient for you
+4/ Run the ExE installer
+5/ Done, enjoy!
+
+
+
